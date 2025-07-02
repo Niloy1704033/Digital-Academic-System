@@ -1,1 +1,1 @@
-# Digital-Academic-System
+Deployed an interactive and responsive website that offers structured access to faculty profiles, course details, upcoming events, and institutional information for students, parents and staff using HTML, CSS, JavaScript, PHP
